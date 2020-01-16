@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 邹文涛的个人主页 The homepage of Wentao Zou
 
-You can use the [editor on GitHub](https://github.com/zwtnju/zwtnju.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 个人简介 Personal Profile
+博士在读 
+PhD candidate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+南京大学软件学院
+软件新技术国家重点实验室
+南京市鼓楼区汉口路22号费彝民楼
+Nanjing University Software Institute
+State Key Laboratory for Novel Software and Technology
+22 Hankou Road, Nanjing, China
 
-### Markdown
+邮箱：1013867022@qq.com
+Email: 1013867022@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 教育经历 Education Experience
+2014-2018  东北大学软件学院 Software College, Northeastern University  学士      Bachelor
+2018-      南京大学软件学院 Software College, Nanjing University       博士在读  PhD candidate
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zwtnju/zwtnju.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 研究方向 Research Interests
+过程挖掘 process mining
