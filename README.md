@@ -20,4 +20,6 @@
 - 2018-      南京大学软件学院 Software College, Nanjing University       博士在读  PhD candidate
 
 ## 研究方向 Research Interests
+- 业务流程预测 predictive business process
 - 过程挖掘 process mining
+- 区块链 blockchain
